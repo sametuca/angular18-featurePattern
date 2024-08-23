@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "angular-jwt-api", "angular-jwt-api\angular-jwt-api.csproj", "{337CAEE2-8436-46E5-BC4C-4EE0233E2DC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AngularJWT.Application", "AngularJWT.Application\AngularJWT.Application.csproj", "{C89E7E22-4EB7-4EF2-9C6C-CB3F6CEB12FB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AngularJWT.Domain", "AngularJWT.Domain\AngularJWT.Domain.csproj", "{4A51D0BA-6547-42AF-9552-AA1454EE86F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AngularJWT.Infrastructure", "AngularJWT.Infrastructure\AngularJWT.Infrastructure.csproj", "{F2AED50B-D49B-42B8-A440-901A1ECE8447}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5D79FF29-9BA6-4F21-B4A2-84F26D8BFAA2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AngularJWT.API", "..\..\..\..\..\..\..\source\repos\angular-jwt-api\AngularJWT.API\AngularJWT.API.csproj", "{66EFFD4C-950C-4E37-A470-42344226B38A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +19,22 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{337CAEE2-8436-46E5-BC4C-4EE0233E2DC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{337CAEE2-8436-46E5-BC4C-4EE0233E2DC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{337CAEE2-8436-46E5-BC4C-4EE0233E2DC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{337CAEE2-8436-46E5-BC4C-4EE0233E2DC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C89E7E22-4EB7-4EF2-9C6C-CB3F6CEB12FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C89E7E22-4EB7-4EF2-9C6C-CB3F6CEB12FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C89E7E22-4EB7-4EF2-9C6C-CB3F6CEB12FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C89E7E22-4EB7-4EF2-9C6C-CB3F6CEB12FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A51D0BA-6547-42AF-9552-AA1454EE86F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A51D0BA-6547-42AF-9552-AA1454EE86F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A51D0BA-6547-42AF-9552-AA1454EE86F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A51D0BA-6547-42AF-9552-AA1454EE86F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2AED50B-D49B-42B8-A440-901A1ECE8447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2AED50B-D49B-42B8-A440-901A1ECE8447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2AED50B-D49B-42B8-A440-901A1ECE8447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2AED50B-D49B-42B8-A440-901A1ECE8447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66EFFD4C-950C-4E37-A470-42344226B38A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66EFFD4C-950C-4E37-A470-42344226B38A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66EFFD4C-950C-4E37-A470-42344226B38A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66EFFD4C-950C-4E37-A470-42344226B38A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

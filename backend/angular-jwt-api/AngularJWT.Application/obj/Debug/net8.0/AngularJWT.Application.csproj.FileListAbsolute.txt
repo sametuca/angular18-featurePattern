@@ -1,0 +1,15 @@
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Application\bin\Debug\net8.0\AngularJWT.Application.deps.json
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Application\bin\Debug\net8.0\AngularJWT.Application.dll
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Application\bin\Debug\net8.0\AngularJWT.Application.pdb
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Application\bin\Debug\net8.0\AngularJWT.Domain.dll
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Application\bin\Debug\net8.0\AngularJWT.Domain.pdb
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Application\obj\Debug\net8.0\AngularJWT.Application.csproj.AssemblyReference.cache
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Application\obj\Debug\net8.0\AngularJWT.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Application\obj\Debug\net8.0\AngularJWT.Application.AssemblyInfoInputs.cache
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Application\obj\Debug\net8.0\AngularJWT.Application.AssemblyInfo.cs
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Application\obj\Debug\net8.0\AngularJWT.Application.csproj.CoreCompileInputs.cache
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Application\obj\Debug\net8.0\AngularJ.F60AABB9.Up2Date
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Application\obj\Debug\net8.0\AngularJWT.Application.dll
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Application\obj\Debug\net8.0\refint\AngularJWT.Application.dll
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Application\obj\Debug\net8.0\AngularJWT.Application.pdb
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Application\obj\Debug\net8.0\ref\AngularJWT.Application.dll

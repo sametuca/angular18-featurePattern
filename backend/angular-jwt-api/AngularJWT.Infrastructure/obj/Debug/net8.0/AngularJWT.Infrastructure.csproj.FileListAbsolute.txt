@@ -1,0 +1,17 @@
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Infrastructure\bin\Debug\net8.0\AngularJWT.Infrastructure.deps.json
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Infrastructure\bin\Debug\net8.0\AngularJWT.Infrastructure.dll
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Infrastructure\bin\Debug\net8.0\AngularJWT.Infrastructure.pdb
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Infrastructure\bin\Debug\net8.0\AngularJWT.Application.dll
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Infrastructure\bin\Debug\net8.0\AngularJWT.Domain.dll
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Infrastructure\bin\Debug\net8.0\AngularJWT.Application.pdb
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Infrastructure\bin\Debug\net8.0\AngularJWT.Domain.pdb
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Infrastructure\obj\Debug\net8.0\AngularJWT.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Infrastructure\obj\Debug\net8.0\AngularJWT.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Infrastructure\obj\Debug\net8.0\AngularJWT.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Infrastructure\obj\Debug\net8.0\AngularJWT.Infrastructure.AssemblyInfo.cs
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Infrastructure\obj\Debug\net8.0\AngularJWT.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Infrastructure\obj\Debug\net8.0\AngularJ.25BA65F7.Up2Date
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Infrastructure\obj\Debug\net8.0\AngularJWT.Infrastructure.dll
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Infrastructure\obj\Debug\net8.0\refint\AngularJWT.Infrastructure.dll
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Infrastructure\obj\Debug\net8.0\AngularJWT.Infrastructure.pdb
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Infrastructure\obj\Debug\net8.0\ref\AngularJWT.Infrastructure.dll

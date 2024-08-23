@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AngularJWT.Application/1.0.0": {
+        "dependencies": {
+          "AngularJWT.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AngularJWT.Application.dll": {}
+        }
+      },
+      "AngularJWT.Domain/1.0.0": {
+        "runtime": {
+          "AngularJWT.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AngularJWT.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AngularJWT.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Domain\bin\Debug\net8.0\AngularJWT.Domain.deps.json
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Domain\bin\Debug\net8.0\AngularJWT.Domain.dll
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Domain\bin\Debug\net8.0\AngularJWT.Domain.pdb
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Domain\obj\Debug\net8.0\AngularJWT.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Domain\obj\Debug\net8.0\AngularJWT.Domain.AssemblyInfoInputs.cache
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Domain\obj\Debug\net8.0\AngularJWT.Domain.AssemblyInfo.cs
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Domain\obj\Debug\net8.0\AngularJWT.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Domain\obj\Debug\net8.0\AngularJWT.Domain.dll
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Domain\obj\Debug\net8.0\refint\AngularJWT.Domain.dll
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Domain\obj\Debug\net8.0\AngularJWT.Domain.pdb
+C:\Users\Samet\source\repos\angular-jwt-api\AngularJWT.Domain\obj\Debug\net8.0\ref\AngularJWT.Domain.dll
