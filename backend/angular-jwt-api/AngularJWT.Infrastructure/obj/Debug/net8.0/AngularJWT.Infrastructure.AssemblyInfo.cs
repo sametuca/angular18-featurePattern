@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AngularJWT.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67c030a83b4a9dc75660a528f07b38485292b271")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d521884f4182b2cc7504e3b730b1136121921fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("AngularJWT.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AngularJWT.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

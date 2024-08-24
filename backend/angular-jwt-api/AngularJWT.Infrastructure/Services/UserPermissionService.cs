@@ -11,7 +11,6 @@ namespace AngularJWT.Infrastructure.Services
         {
             _context = context;
         }
-
         public async Task<IEnumerable<string>> GetUserPermissionsAsync(string userId)
         {
             return await _context.UserPermissions

@@ -3,7 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Samet\\Desktop\\angular-jwt\\angular-jwt\\angular18-featurePattern\\angular18-featurePattern\\backend\\angular-jwt-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66EFFD4C-950C-4E37-A470-42344226B38A}|..\\..\\..\\..\\..\\..\\..\\source\\repos\\angular-jwt-api\\AngularJWT.API\\AngularJWT.API.csproj|c:\\users\\samet\\source\\repos\\angular-jwt-api\\angularjwt.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2AED50B-D49B-42B8-A440-901A1ECE8447}|AngularJWT.Infrastructure\\AngularJWT.Infrastructure.csproj|c:\\users\\samet\\desktop\\angular-jwt\\angular-jwt\\angular18-featurepattern\\angular18-featurepattern\\backend\\angular-jwt-api\\angularjwt.infrastructure\\services\\userpermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2AED50B-D49B-42B8-A440-901A1ECE8447}|AngularJWT.Infrastructure\\AngularJWT.Infrastructure.csproj|solutionrelative:angularjwt.infrastructure\\services\\userpermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AED50B-D49B-42B8-A440-901A1ECE8447}|AngularJWT.Infrastructure\\AngularJWT.Infrastructure.csproj|c:\\users\\samet\\desktop\\angular-jwt\\angular-jwt\\angular18-featurepattern\\angular18-featurepattern\\backend\\angular-jwt-api\\angularjwt.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2AED50B-D49B-42B8-A440-901A1ECE8447}|AngularJWT.Infrastructure\\AngularJWT.Infrastructure.csproj|solutionrelative:angularjwt.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\angular-jwt\\angular-jwt\\angular18-featurePattern\\angular18-featurePattern\\backend\\angular-jwt-api\\AngularJWT.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AngularJWT.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\angular-jwt\\angular-jwt\\angular18-featurePattern\\angular18-featurePattern\\backend\\angular-jwt-api\\AngularJWT.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AngularJWT.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T23:07:24.396Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -46,14 +64,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Samet\\source\\repos\\angular-jwt-api\\AngularJWT.API\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\source\\repos\\angular-jwt-api\\AngularJWT.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Samet\\source\\repos\\angular-jwt-api\\AngularJWT.API\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\source\\repos\\angular-jwt-api\\AngularJWT.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAvAAAA",
+              "Title": "UserPermissionService.cs",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\angular-jwt\\angular-jwt\\angular18-featurePattern\\angular18-featurePattern\\backend\\angular-jwt-api\\AngularJWT.Infrastructure\\Services\\UserPermissionService.cs",
+              "RelativeDocumentMoniker": "AngularJWT.Infrastructure\\Services\\UserPermissionService.cs",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\angular-jwt\\angular-jwt\\angular18-featurePattern\\angular18-featurePattern\\backend\\angular-jwt-api\\AngularJWT.Infrastructure\\Services\\UserPermissionService.cs",
+              "RelativeToolTip": "AngularJWT.Infrastructure\\Services\\UserPermissionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T19:41:54.702Z",
+              "WhenOpened": "2024-08-24T23:07:16.796Z",
               "EditorCaption": ""
             }
           ]

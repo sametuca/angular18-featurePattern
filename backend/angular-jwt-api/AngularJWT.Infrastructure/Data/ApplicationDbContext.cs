@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using AngularJWT.Domain.Entities;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,6 +12,7 @@ namespace AngularJWT.Infrastructure.Data
     {
         public ApplicationDbContext() { }
 
-        public object UserPermissions { get; set; }
+        public IEnumerable<UserPermission> UserPermissions { get; set; }
+
     }
 }
